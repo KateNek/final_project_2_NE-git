@@ -1,0 +1,70 @@
+{
+   "All recipes that use chicken:": [
+      "Mulligatawny Soup"
+   ],
+   "The three longest dishes to cook:": {
+      "1)based on the original dataset:": [
+         "Amazing Apple Butter",
+         "Amazing Apple Butter",
+         "Amazing Apple Butter"
+      ],
+      "2)if there are no repetitions:": [
+         "Amazing Apple Butter",
+         "Homemade Apple Cider",
+         "Apple Pie Filling"
+      ]
+   },
+   "For each number of people, the names of dishes that can be prepared:": {
+      "4": [
+         "Sarah's Homemade Applesauce",
+         "Easy Apple Crisp with Oat Topping",
+         "Southern Fried Apples",
+         "Apple Hand Pies"
+      ],
+      "6": [
+         "Easy Apple Crisp with Pie Filling",
+         "Delicious Cinnamon Baked Apples",
+         "Caramel Apples",
+         "Apple Crisp - Perfect and Easy",
+         "Old-Fashioned Apple Dumplings",
+         "Mulligatawny Soup",
+         "Easy Apple Cinnamon Muffins",
+         "Waldorf Salad"
+      ],
+      "8": [
+         "The Best Caramel Apples",
+         "Apple Turnovers",
+         "Apple Crumb Pie",
+         "Easy Apple Pie",
+         "Sauteed Apples",
+         "Apple Pie by Grandma Ople",
+         "Apple-Cranberry Crostada",
+         "Apple-Cranberry Crisp",
+         "Easy Apple Cider"
+      ],
+      "10": [
+         "Debbie's Amazing Apple Bread",
+         "Awesome Sausage, Apple and Cranberry Stuffing"
+      ],
+      "12": [
+         "Apple Crisp",
+         "Apple Strudel Muffins"
+      ],
+      "16": [
+         "Homemade Apple Cider"
+      ],
+      "24": [
+         "Mom's Apple Fritters",
+         "German Apple Cake"
+      ],
+      "40": [
+         "Apple Pie Filling"
+      ],
+      "48": [
+         "Amazing Apple Butter"
+      ],
+      "56": [
+         "Canned Apple Pie Filling"
+      ]
+   }
+}
